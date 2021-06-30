@@ -8,14 +8,13 @@ Unfortunately, all of the above processes have to be done manually. For a develo
 
 So, use this boilerlate and get fun...
 
-
-###### Start
-```
+### Start
+```sh
 clone/download this-repository
 open this-directory into VS Code or use any command line tool
 npm install
 npm run build-css
 ```
 
-###### Configure tailwind
+### Configure tailwind
 Now configure tailwind.config.js file as you want and build your project.
