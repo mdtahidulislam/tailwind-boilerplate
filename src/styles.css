@@ -1,0 +1,9 @@
+/** 
+    * include tailwind base, components & utilities
+    * this include tailwind css into your public folder using scripts command from package.json
+    * referrence: https://tailwindcss.com/docs/installation#include-tailwind-in-your-css
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
